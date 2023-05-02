@@ -1,6 +1,12 @@
+Notes:
+
 Use arrow keys to move around
 Use F to shoot
 Use shift to run
 
-To play the game use the executable file in the zip
+To play the game use the executable file in the zip called VarioTheGermanElectrian
+Remember to extract the files or else the program will not reconize SDL
 Look at the code in the files folder
+
+I used SDL2 instead of OpenGL I hope that it is okay
+I accidently confused SDL2 and OpenGL
