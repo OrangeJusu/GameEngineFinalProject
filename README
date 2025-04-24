@@ -1,6 +1,7 @@
 This is a small game made with a very basic game engine using SDL.
 I made the base game engine and designed a game with it, both are
-included in the files.
+included in the files. The game was originally going to be a mario clone,
+but in the semester I ran out of time and I made Grand Theft Blocko instead.
 
 
 Notes:
